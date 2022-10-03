@@ -1,0 +1,221 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@500;600;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.imagen{
+width: 221px;
+height: 150px;
+left: 0px;
+top: 0px;
+border-right: 2px white solid;
+background: url(./quick-fingers-removebg-preview\ 1.png);
+background-repeat: no-repeat;
+}
+.parte_superior{
+    display: flex;
+width: 1919px;
+height: 150px;
+left: 1px;
+top: 0px; 
+background-color: rgb(164, 164, 164);
+border-bottom: 2px white solid;
+background-color: #707070;
+}
+.parte_superior2{
+    width: 1919px;
+height: 930px;
+left: 1px;
+top: 0px; 
+background-color: #707070;
+}
+
+.navegacion{
+    padding-left: 50px;
+    width: 1335px;
+    height: 150px;
+    top: 0px;
+    padding-top: 60px;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Jost', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+    }
+    .lista{
+        display: inline-flex;
+        list-style: none;
+        gap: 20px;
+    }
+
+.parte_inferior{
+    background-color: #0F0D1D;
+    width: 1920px;
+height: 1080px;
+}
+.bloque{
+    width: 467px;
+    height: 296px;
+    display: flex;
+    background-color: black;
+}
+.texto_bloque{
+    font-weight: 600;
+    font-size: 24px;
+    padding-top: 79px;
+    margin-left: 76px;
+    width: 173px;
+    height: 68px;
+    color: white;
+}
+.texto_bloque2{
+    color: #8F8DA0;
+    font-weight: 600;
+    font-size: 12px;
+    margin-left: 76px;
+    padding-top: 10px;
+    width: 70px;
+    height: 34px;
+}
+.figura{
+    margin-left: 305px;
+    padding-top: 143px;
+    height: 106px;
+    width: 96px;
+    position:absolute;
+}
+.footer{
+    width: 100%;
+    height: 50px;
+    padding-left: 31%;
+    
+}
+
+.buscar{
+    width: 124px;
+    height: 150px;
+    padding-top: 60px;
+    padding-left: 50px;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+}
+.need{
+    width: 240px;
+    height: 150px;
+}
+.navegacion_iconos{
+    gap: 20px;
+    display: inline-flex;
+    padding-right: 35px;
+    
+}
+.need{
+    font-family: 'Jost', sans-serif;
+    font-size: 20px;
+    color: white;
+    padding-top: 50px;
+    padding-left: 22px;
+}
+.texto1{
+    font-family: 'Jost', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: white;
+    padding-top: 135px;
+    padding-left: 239px;
+    padding-bottom: 56px;
+}
+.texto2{
+    font-family: 'Jost', sans-serif;
+    font-weight: 700;
+    font-size: 88px;
+    color: white;
+    width: 1000px;
+    height: 300px;
+    line-height: 1.1;
+    padding-left: 220px;
+    
+}
+.boton{
+    width: 248px;
+    height: 77px;
+    background-color: #3C72FC;
+    color: white;
+    text-align: center;
+    font-family: 'Jost', sans-serif;
+    font-weight: 600;
+    padding-top: 26px;
+    margin-left: 220px;
+    margin-top: 56px;
+}
+.texto3{
+    font-family: 'Jost', sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    color: white;
+    padding-top: 124px;
+    text-align: center;
+}
+.texto4{
+    font-family: 'Jost', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    text-align: center;
+    color: #726F84;
+    padding-bottom: 114px;
+}
+.cuadros{
+    align-content: center;
+    justify-content: center;
+    gap: 26px;
+}
+.linea1{
+    width: 636.41px;
+height: 0px;
+border: 1px solid rgba(50, 48, 61, 0.71);
+}
+.linea2{
+    width: 636.41px;
+    height: 0px;
+    border: 1px solid rgba(50, 48, 61, 0.71);
+}
+.linea_texto{
+    font-weight: 600;
+    font-size: 16px;
+    color: white;
+}
+.linea{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 146px;
+}
+.footer{
+    display: inline-flex;
+    gap: 60px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-left: -300px;
+    padding-top: 91px;
+}
+.brand{
+    width: 184px;
+    height: 32px;
+    background-color: #3C72FC;
+    color: white;
+    font-weight: 600;
+    font-size: 12px;
+    font-family: 'Jost', sans-serif;
+    text-align: center;
+    padding-top: 5px;
+   
+}
+.contenedor{
+    align-items: center;
+    align-content: center;
+}
+
+
